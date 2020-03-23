@@ -1,2 +1,2 @@
-# MERNG_BookList_Server
-A Book Reading List Server.
+# MERNG BookList Server
+A Book Reading List APP Server.
