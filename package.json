@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js",
-    "serve": "node app.js"
+    "serve": "nodemon app.js",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "Josue Rodriguez <josuerodcat90@gmail.com> (http://www.linkedin.com/in/JosueRodr%C3%ADguezCatalan)",
